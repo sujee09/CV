@@ -1,4 +1,4 @@
-## Your Name
+## Sujeevan Rajagopalan
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,8 +11,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Morrisons** (2009-2020)  
+_Checkouts Team Leader_
 
 - Any experience relevent to software development
 
@@ -49,11 +49,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Greenwich (2008-2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Mathematics
+- 2:2
+- Final year subjects:  Advanced Algorithms, Numerical Methods and Software for Partial Differential Equations, Methods of Optimisation, Mathematics in Society, Research Methods and Project, Industrial Applied Mathematics and Analytical Decision Making. 
 
 #### Any other qualifications
 
