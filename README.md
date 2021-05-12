@@ -22,22 +22,13 @@ Working in retail I believe I have gained exceptional communication skills, grea
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+**Problem Solving**
 
-#### This Skill
+I have gained valuable problem-solving skills throughout my many years of working in retail, from having to work with sudden sick calls, to figuring out work schedules for groups of 20+ people and dealing with IT problems in store. I believe that all these problems I have had to work though have showed the me the importance in patience and having a cool head, which had also helped me many times in software development.  Starting at Makers, coding was still very new to me and there were many times we ran into bugs and problems, however breaking problems down into blocks and methodically thinking about them allowed me push through without too much difficulty.
 
-- Experience
-- Achievements
-- Evidence
+**Communication**
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Working retail communication was key to running a smooth store as you could not always be there and if necessary, information was not passed onto relevant parties during other shifts there could be serious consequences. Studying at Makers I realised how important communication was in the world of software development, from networking with fellow coders to pair programming on an almost daily basis. Working in multiple group projects stressed how important it was to talk to people about weaknesses/strengths and be honest about your feelings and thoughts, as to allow a smoother group workflow.
 
 ## Education
 
